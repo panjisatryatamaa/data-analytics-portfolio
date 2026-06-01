@@ -1,40 +1,31 @@
-# Sales & Profit Dashboard (Excel)
+# Data Analytics Portfolio
 
-## Overview
-This project presents an interactive Sales & Profit Dashboard built using Microsoft Excel to analyze business performance and support data-driven decision-making.
+Hi, I'm Panji Satryatama, a Statistics student passionate about Data Analytics and Data Visualization.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Power Query
+## Projects
 
-## Key Features
-- Interactive filtering by year and month
-- KPI monitoring for Sales, Profit, Orders, and Customers
-- Sales trend analysis
-- Profit trend analysis
-- Category performance analysis
-- Top products performance analysis
+### 1. Sales & Profit Dashboard (Excel)
 
-## Key Insights
-- Technology was identified as the highest sales-contributing category.
-- Sales and profit trends varied across different periods.
-- Several products generated high sales but relatively low profit margins.
-- Dashboard filters enabled dynamic exploration of business performance.
+* Built an interactive dashboard using Excel.
+* Analyzed sales, profit, orders, and customer performance.
+* Tools: Excel, Pivot Table, Pivot Chart, Slicer, Power Query.
 
-## Skills Applied
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- Dashboard Development
-- Business Analytics
+### 2. HR Analytics Dashboard (Tableau)
 
-## Dashboard Preview
+* Built an interactive HR dashboard using Tableau.
+* Analyzed employee attrition, demographics, and workforce trends.
+* Tools: Tableau, Excel, Power Query.
 
-![Sales Dashboard](dashboard.png)
+## Skills
 
-## Files
-- sales_dashboard.xlsx
-- dashboard.png
+* Tableau
+* Excel
+* SQL
+* R
+* Python
+* Power Query
+
+## Contact
+
+LinkedIn: [(https://www.linkedin.com/in/panji-satryatama)]
+Tableau Public: [(https://public.tableau.com/views/HR_Analytics_Dashboard_17803122529810/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
